@@ -1,0 +1,8 @@
+C:\Users\roman\source\repos\ProxyGrabber\ScrollSynchronizer\bin\Debug\ScrollSynchronizer.dll
+C:\Users\roman\source\repos\ProxyGrabber\ScrollSynchronizer\bin\Debug\ScrollSynchronizer.pdb
+C:\Users\roman\source\repos\ProxyGrabber\ScrollSynchronizer\obj\Debug\ScrollSynchronizer.Properties.Resources.resources
+C:\Users\roman\source\repos\ProxyGrabber\ScrollSynchronizer\obj\Debug\ScrollSynchronizer.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\ProxyGrabber\ScrollSynchronizer\obj\Debug\ScrollSynchronizer.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\ProxyGrabber\ScrollSynchronizer\obj\Debug\ScrollSynchronizer.dll
+C:\Users\roman\source\repos\ProxyGrabber\ScrollSynchronizer\obj\Debug\ScrollSynchronizer.pdb
+C:\Users\roman\source\repos\ProxyGrabber\ScrollSynchronizer\obj\Debug\ScrollSynchronizer.csprojAssemblyReference.cache
